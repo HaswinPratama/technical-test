@@ -1,6 +1,7 @@
 # technical-test
 
 Github Repo : https://github.com/HaswinPratama/technical-test.git
+
 Web URL : https://predict-frontend-vq36ocpmka-et.a.run.app/
 
 We build a predictive model using Random Forest to forecast the next product a customer is likely to purchase.
